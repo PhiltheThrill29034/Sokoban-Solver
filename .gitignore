@@ -1,0 +1,11 @@
+*.class
+bin/
+
+pdf_examples.pdf
+
+
+.idea/
+*.iml
+.vscode/
+
+demo.tape

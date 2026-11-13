@@ -1,0 +1,95 @@
+SOKOBAN LEVELS
+
+The goal of the game is to push all boxes onto the goal squares.
+
+Only one box can be pushed at a time, and boxes cannot be pulled.
+
+Character Legend:
+
+'#' : Wall (Impassable barrier)
+
+'@' : Player (Sokoban) on Floor
+
+'+' : Player (Sokoban) on Goal Square
+
+'$' : Box on Floor (Unplaced box)
+
+'*' : Box on Goal Square (Placed box)
+
+'.' : Goal Square (Empty target location)
+
+' ': Floor (Empty navigable space)
+
+Level #1:
+
+  ######
+###   # 
+# @$  # 
+### $.# 
+#.##$ # 
+# # . ##
+#$ *$$.#
+#  ..  #
+########
+
+Level #2:
+
+#########
+#    ####
+# $$$####
+#  #..###
+##  ..$ #
+## @    #
+#########
+
+Level #3:
+
+#########
+#    ####
+# $ @####
+##*  ####
+# * #####
+# * #####
+# * #####
+# . #####
+#########
+
+Level #4:
+
+#########
+#   #####
+# # #   #
+# $   $ #
+#..#$#$##
+#.@$   ##
+#..  ####
+#########
+#########
+
+Level #5:
+
+#########
+##    ###
+##.##$ ##
+# ..$  ##
+#  #$  ##
+#  @ ####
+#########
+#########
+
+Level #6:
+
+#########
+## @ ####
+## #$  ##
+# *. . ##
+#  $$ ###
+### #.###
+###   ###
+#########
+#########
+
+
+
+
+
